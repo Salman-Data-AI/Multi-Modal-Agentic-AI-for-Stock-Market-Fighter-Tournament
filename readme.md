@@ -7,6 +7,11 @@ Transform any publicly traded company into an epic fighting game character! This
 ![Gradio](https://img.shields.io/badge/Gradio-Web%20Interface-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![image](https://github.com/user-attachments/assets/8e3f16f5-ffda-4b32-8422-abecb1f1e2f3)
+
+
+---
+
 ## 🎮 Features
 
 - **🥊 Realistic Fighter Generation**: Creates dark, intimidating fighters inspired by Shadow Fight and Mortal Kombat
@@ -15,6 +20,8 @@ Transform any publicly traded company into an epic fighting game character! This
 - **📊 Educational Content**: Learn about companies through their fighter profiles and combat abilities
 - **🌐 Web Interface**: Easy-to-use Gradio interface for creating and viewing fighters
 - **⚔️ Tournament Ready**: Dark theme and professional fighting game aesthetics
+
+---
 
 ## 🚀 Demo
 
@@ -27,6 +34,8 @@ Enter any company name or ticker symbol (like `AAPL`, `Tesla`, `Amazon`) and wat
 - Menacing battle cry with voice acting
 - Realistic fighter artwork
 
+---
+
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
@@ -34,6 +43,8 @@ Enter any company name or ticker symbol (like `AAPL`, `Tesla`, `Amazon`) and wat
   - GPT-4 (for character generation)
   - DALL-E 3 (for artwork)
   - TTS-1 (for voice synthesis)
+
+---
 
 ## 🛠️ Installation
 
@@ -62,6 +73,8 @@ Enter any company name or ticker symbol (like `AAPL`, `Tesla`, `Amazon`) and wat
 
 The web interface will automatically open in your browser at `http://localhost:7860`
 
+---
+
 ## 📦 Dependencies
 
 Create a `requirements.txt` file with:
@@ -73,6 +86,9 @@ python-dotenv>=1.0.0
 Pillow>=10.0.0
 ```
 
+---
+
+
 ## 🎯 Usage
 
 1. **Launch the app** and navigate to the web interface
@@ -83,12 +99,16 @@ Pillow>=10.0.0
    - Realistic fighter artwork
    - Downloadable battle cry audio
 
+---
+
 ### Example Companies to Try
 
 **🔥 Tech Titans**: Apple, Microsoft, Google, Amazon, Meta
 **⚡ Electric Warriors**: Tesla, Ford, Rivian  
 **💰 Financial Assassins**: JPMorgan Chase, Goldman Sachs, Berkshire Hathaway
 **🎮 Entertainment Gladiators**: Disney, Netflix, Sony
+
+---
 
 ## 🎨 Character Design Philosophy
 
@@ -99,6 +119,8 @@ Each fighter is designed with:
 - **Educational value** teaching about company business models through combat abilities
 - **Dark, mature tone** suitable for serious fighting tournaments
 - **Detailed combat gear** reflecting company identity and market position
+
+---
 
 ## 🔧 Customization
 
@@ -123,6 +145,20 @@ Customize voice mapping in `select_fighter_voice()`:
 - Modify selection criteria
 - Adjust speech speed and tone
 
+---
+
+## Sample Chats
+
+### Apple
+
+![image](https://github.com/user-attachments/assets/60032e71-0a83-48ad-bc85-a4ac02f36561)
+
+### Amazon
+
+![image](https://github.com/user-attachments/assets/016ab50e-1ad4-4e73-9dfd-5e1fea1ca651)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -135,9 +171,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## ⚠️ Disclaimer
 
@@ -145,6 +185,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Not financial advice - fighters are fictional representations
 - Requires OpenAI API credits for full functionality
 - Generated content reflects AI interpretation, not official company positions
+
+---
 
 ## 🐛 Troubleshooting
 
@@ -167,12 +209,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Check console for JavaScript errors
 - Ensure all dependencies are properly installed
 
+---
+
 ## 🙏 Acknowledgments
 
 - OpenAI for GPT-4, DALL-E 3, and TTS-1 APIs
 - Gradio team for the excellent web interface framework
 - Fighting game community for inspiration (Mortal Kombat, Shadow Fight, Tekken)
 - Stock market data providers for company information
+
+---
 
 ## 📞 Support
 
